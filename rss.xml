@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Allison Milionis]]></title>
-        <description><![CDATA[Allison Milionis]]></description>
+        <title><![CDATA[words have wings]]></title>
+        <description><![CDATA[words have wings]]></description>
         <link>https://thegrid.ai/allison-milionis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 05:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 05:33:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/allison-milionis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>words have wings</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9c11918-f024-47f2-bb04-3e879b821a6e.jpg">]]></description>
             <link>https://thegrid.ai/allison-milionis/words-have-wings/index.html</link>
             <guid isPermaLink="false">b8814b12-95da-409e-9735-e5779e135dcb</guid>
-            <pubDate>Mon, 20 Jun 2016 05:24:53 GMT</pubDate>
+            <pubDate>Mon, 20 Jun 2016 05:32:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
